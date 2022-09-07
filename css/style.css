@@ -358,7 +358,7 @@ header:hover::after{
 }
 
 .subscribeWrap>.backPicture{
-    background: url("/images/midbanner11.jpg");
+    background: url("../images/midbanner11.jpg");
     margin: 0 auto;
 }
 
@@ -498,7 +498,7 @@ header:hover::after{
 }
 
 .discountWrap>.backPicture{
-    background: url("/images/midbanner22.jpg");
+    background: url("../images/midbanner22.jpg");
     margin: 0 auto;
 }
 
